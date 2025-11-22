@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd KarinApp/site && npm install && npm run build",
+  "outputDirectory": "KarinApp/site/dist",
+  "installCommand": "cd KarinApp/site && npm install"
+}
+
