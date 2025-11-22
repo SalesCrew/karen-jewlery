@@ -66,7 +66,7 @@ export const Hero = () => {
           animate="visible"
           custom={2}
         >
-          Handcrafted adornments. Modern ritual.
+          Handcrafted bracelets. Modern ritual.
         </motion.p>
 
         <motion.p
@@ -92,7 +92,7 @@ export const Hero = () => {
           </motion.a>
 
           <motion.a
-            href="https://instagram.com/atelier.karen"
+            href="https://instagram.com/karen.pgntr"
             target="_blank"
             rel="noreferrer"
             className="cta cta--ghost"

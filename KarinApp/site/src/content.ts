@@ -56,6 +56,7 @@ export const products: Product[] = [
   {
     name: 'GLASKRISTALLPERLEN ARMBÄNDER',
     price: 20,
+    altPrice: 'ohne Plättchen 18€',
     description: 'Transparente Reflexe erinnern an gefrostete Morgentau Tropfen.',
     type: 'wristband',
     badge: 'Frosted',
@@ -80,18 +81,18 @@ export const narrativeBlocks = [
   {
     title: 'Material Story',
     bullets: [
-      'Recycelte Edelmetalle, nickel- und blei-frei.',
+      'Echtsilberperlen und vergoldete Echtsilberperlen, nickel- und blei-frei.',
       'TOHO-Perlen in Micro-Batches gefärbt für präzise Farbharmonien.',
     ],
-    microcopy: 'Jedes Stück erhält eine Karte mit Mischcodes & Pflegehinweisen.',
+    microcopy: 'Jedes Stück erhält eine Karte mit Größe & Pflegehinweisen.',
   },
   {
     title: 'Making Process',
     bullets: [
-      'Von Hand gefädelte Muster mit doppelt versiegelten Knoten.',
-      '72-Stunden Ruhezeit nach der Fertigung für maximale Formstabilität.',
+      'Von Hand gefädelte Muster mit Quetschperle versiegelt.',
+      '48-Stunden Trockenzeit nach der Fertigung für maximale Formstabilität.',
     ],
-    microcopy: 'Fertigung in Düsseldorf · persönliche Qualitätskontrolle durch Karen.',
+    microcopy: 'Fertigung in Bonn · persönliche Qualitätskontrolle durch Karen.',
   },
 ]
 
@@ -121,4 +122,5 @@ export const contactChannels: ContactChannel[] = [
     icon: 'instagram',
   },
 ]
+
 
