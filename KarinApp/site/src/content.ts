@@ -20,6 +20,7 @@ export const manifestoLine = 'Limited micro-batches, each piece signed.'
 
 export const pulseLine = 'Recycled gold-fill & cruelty-free fibers.'
 
+// Force rebuild - Price fix for GLASKRISTALLPERLEN ARMBÄNDER: 20 EUR
 export const products: Product[] = [
   {
     name: 'TOHO ARMBÄNDER (einfach)',
