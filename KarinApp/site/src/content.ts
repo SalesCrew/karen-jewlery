@@ -117,8 +117,8 @@ export const contactChannels: ContactChannel[] = [
   {
     id: 'instagram',
     label: 'Instagram',
-    value: '@atelier.karen',
-    href: 'https://instagram.com/atelier.karen',
+    value: '@karen.pgntr',
+    href: 'https://instagram.com/karen.pgntr',
     action: 'external',
     icon: 'instagram',
   },
